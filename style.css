@@ -40,6 +40,8 @@ figcaption {
 
 #details {
   display: block;
+  margin: auto;
+  padding: 10px;
 }
 
 #details div {
