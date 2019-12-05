@@ -7,7 +7,9 @@ body {
 }
 
 nav {
-  background: #4C4B59
+  background: #4C4B59;
+  text-align: center;
+
 }
 
 h1 {
