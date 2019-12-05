@@ -23,7 +23,12 @@ h1 {
 
 #featured-property {
   margin: auto;
-  width: 80%;
+  width: 900px;
   height: auto;
+  text-align: center;
+}
+
+#featured-property p {
+  width: 800px;
   text-align: center;
 }
