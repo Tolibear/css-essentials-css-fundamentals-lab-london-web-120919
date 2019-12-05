@@ -46,8 +46,7 @@ figcaption {
 #details div {
   float: left;
   width: 25%;
-  margin: auto;
   background: #1E1D22;
   text-align:center;
-  padding: 10px;
+  margin: 10px;
 }
